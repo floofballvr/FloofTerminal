@@ -18,14 +18,6 @@ cooldown: 86400000,
             uses: 1
         }
     },
-	{
-        id: 'photoshoot_with_floofballvr',
-        name: '🌸 Photoshoot with FloofballVR',
-        price: 1000,
-        description: 'get photoshoot done by FloofballVR on VRChat.',
-        type: 'server shop item'
-        }
-	},	
     {
         id: 'bank_upgrade_1',
         name: 'Bank Upgrade I',
@@ -147,12 +139,14 @@ roleId: null,
             type: 'robbery_protection',
             protection: true
         }
+    }
 ];
 
 
 
 
--
+
+
 export function getItemById(itemId) {
     return shopItems.find(item => item.id === itemId);
 }
@@ -234,7 +228,5 @@ export function validatePurchase(itemId, userData) {
 
     return { valid: true };
 }
-
-
 
 
