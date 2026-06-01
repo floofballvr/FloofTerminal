@@ -139,7 +139,15 @@ roleId: null,
             type: 'robbery_protection',
             protection: true
         }
-    }
+    },
+    {
+        id: 'photoshoot_with_floofballvr',
+        name: '🌸 Photoshoot with FloofballVR',
+        price: 1000,
+        descriptioon: You can get photoshoot done by FloofballVR on VRChat!,
+        }
+    },
+    
 ];
 
 
