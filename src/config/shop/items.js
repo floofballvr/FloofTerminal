@@ -144,7 +144,8 @@ roleId: null,
         id: 'photoshoot_with_floofballvr',
         name: '🌸 Photoshoot with FloofballVR',
         price: 1000,
-        descriptioon: 'get photoshoot done by FloofballVR on VRChat!',
+        descriptioon: 'get photoshoot done by FloofballVR on VRChat.',
+        type: 'server shop item'
         }
     
 ];
