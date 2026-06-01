@@ -1,3 +1,7 @@
+# FLOOFTERMINAL Bot
+The bot is only for Floofy Gaming and Chill community!
+Check out Titan Bot which it helped to get me started to have FLOOFTERMINAL to be the Main Server Bot for the server!
+
 # TitanBot - Ultimate Discord Bot
 
 **TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
