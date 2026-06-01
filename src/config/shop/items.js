@@ -146,7 +146,6 @@ roleId: null,
         price: 1000,
         descriptioon: You can get photoshoot done by FloofballVR on VRChat!,
         }
-    },
     
 ];
 
