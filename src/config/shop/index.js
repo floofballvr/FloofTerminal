@@ -43,6 +43,13 @@ export const shopConfig = {
             description: 'Special roles with unique perks',
             icon: '🎭',
             itemTypes: ['role']
+        },
+        {
+            id: 'server_shop_items',
+            name: 'Server Shop Items',
+            description: 'Server Items you can redeem on',
+            Icon: '🌸',
+            itemTypes: ['server_shop_items']
         }
     ],
     
