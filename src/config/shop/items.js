@@ -4,6 +4,22 @@
 
 
 export const shopItems = [
+      {
+        id: 'photography_with_floof',
+        name: '🌸 Photography with Floof',
+        price: 5000,
+        description: 'It allows you to schedule a photography session with FloofballVR',
+        type: 'Server Item',
+        }
+    },
+    {
+        id: 'request_a_game',
+        name: '✨ Request a game',
+        price: 5000,
+        description: 'Requewst the game for Floof to try',
+        type: 'Server Item',
+        }
+    },
     {
         id: 'extra_work',
         name: 'Extra Work Shift',
