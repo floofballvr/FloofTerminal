@@ -4,7 +4,7 @@
 
 
 export const shopItems = [
-      {
+     {
         id: 'photography_with_floof',
         name: '🌸 Photography with Floof',
         price: 5000,
